@@ -1,0 +1,8 @@
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.csproj.AssemblyReference.cache
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.AddEmployeeForm.resources
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.Form1.resources
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.Properties.Resources.resources
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.csproj.GenerateResource.cache
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.csproj.CoreCompileInputs.cache
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.AddDepartmentForm.resources
+E:\code\visual\test1\LungFish4.0\LungFish\LungFish\obj\Debug\LungFish.Form2.resources
